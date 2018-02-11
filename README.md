@@ -1,6 +1,7 @@
 ![alt text](https://github.com/AJ-TechSoul/ELECTRON-4-PHP/blob/master/electron4php.jpg?raw=true)
 # ELECTRON-4-PHP
-An easiest way to use php in electron
+An easiest way to use php in electron 
+- **(For Now it Only Runs on MAC but not on Windows or Linux, Please contribute your code to work on other platforms too.)**
 
 **Clone and run for a quick way to see Electron4PHP in action.**
 ```
@@ -27,7 +28,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 git clone https://github.com/AJ-TechSoul/ELECTRON-4-PHP
 # Go into the repository
-cd ELECTRON4PHP
+cd ELECTRON-4-PHP
 # Install dependencies
 npm install
 # Run the app
